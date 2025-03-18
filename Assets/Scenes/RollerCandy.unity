@@ -494,6 +494,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 6591648748816789551, guid: 63921a9298947b04b91244f71c3f4400, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 2282354a89acd024a9a83f601fd8f42c, type: 2}
+    - target: {fileID: 6591648748816789551, guid: 63921a9298947b04b91244f71c3f4400, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 2282354a89acd024a9a83f601fd8f42c, type: 2}
     - target: {fileID: 7304857747431198684, guid: 63921a9298947b04b91244f71c3f4400, type: 3}
       propertyPath: m_Name
       value: Player
