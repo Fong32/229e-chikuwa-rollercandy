@@ -8,6 +8,11 @@ public class ChangeScene : MonoBehaviour
       SceneManager.LoadScene("RollerCandy");
    }
 
+   public void Back()
+   {
+      SceneManager.LoadScene("MainMenu");
+   }
+   
    public void Quit()
    {
       Application.Quit();
