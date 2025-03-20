@@ -15,7 +15,7 @@ public class ControlPlayer : MonoBehaviour
     void Update()
     {
         float move = 0f;
-        float movez = 0f;
+        
         if (Input.GetKey(KeyCode.A))
         {
            move = -1f; 
@@ -26,7 +26,7 @@ public class ControlPlayer : MonoBehaviour
         }
         rb.velocity = new Vector3(move * moveSpeed, rb.velocity.y, move);
         rb.AddForce(0,0,10*force);
-        rb.AddTorque(0,10,0*torgue);
+        rb.AddTorque(0,10*torgue,0);
     }
     
 }
