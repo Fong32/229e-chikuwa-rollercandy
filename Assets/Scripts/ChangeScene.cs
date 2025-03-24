@@ -10,12 +10,12 @@ public class ChangeScene : MonoBehaviour
 
    public void Credit()
    {
-      SceneManager.LoadScene("CreditScene.unity");
+      SceneManager.LoadScene("CreditScene");
    }
 
    public void Back()
    {
-      SceneManager.LoadScene("MainMenu.unity");
+      SceneManager.LoadScene("MainMenu");
    }
  
    public void Quit()
