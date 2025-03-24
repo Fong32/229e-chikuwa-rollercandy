@@ -4,12 +4,12 @@ using UnityEngine;
 public class ControlPlayer : MonoBehaviour
 {
     [SerializeField] private float force;
-    [SerializeField] private float torgue;
+    
     public float moveSpeed = 5f;
-    private Rigidbody rb;
+    private Rigidbody _rb;
     void Start()
     {
-      rb = GetComponent<Rigidbody>();  
+      _rb = GetComponent<Rigidbody>();  
     }
     
     void Update()
@@ -24,9 +24,10 @@ public class ControlPlayer : MonoBehaviour
         {
             move = 1f;
         }
-        rb.velocity = new Vector3(move * moveSpeed, rb.velocity.y, move);
-        rb.AddForce(0,0,10*force);
-        rb.AddTorque(0,10*torgue,0);
+        
+        _rb.linearVelocity = new Vector3(move *moveSpeed,_rb.linearVelocity.y,move);
+        _rb.AddForce(0,0,10*force);
+        
     }
     
 }
