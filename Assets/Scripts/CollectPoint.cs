@@ -4,12 +4,12 @@ using UnityEngine.UI;
 
 public class CollectPoint : MonoBehaviour
 {
-    public Text ScoreText;
-    private int score = 0;
+    public Text scoreText;
+    private int _score = 0;
 
     public void AddPoint()
     {
-        score += 1;
-        ScoreText.text = "Score: " + score;
+        _score += 1;
+        scoreText.text = "Score: " + _score;
     }
 }
