@@ -253,6 +253,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &8613823
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -922,6 +923,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &47973930
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -1067,6 +1069,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &53039476
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -1256,6 +1259,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &63717216
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -1552,6 +1556,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &93209183
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -1730,6 +1735,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &97383494
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -2112,6 +2118,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &109023124
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -2347,6 +2354,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &121036303
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -2504,6 +2512,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &129608601
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -2644,6 +2653,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &132857728
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -3044,6 +3054,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &152744180
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -3109,10 +3120,10 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1601472022}
+  - {fileID: 1194012899}
   - {fileID: 940154169}
   - {fileID: 1413952011}
   - {fileID: 252170182}
-  - {fileID: 1955496478}
   - {fileID: 974606565}
   m_Father: {fileID: 330585546}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -3196,7 +3207,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1f6eba2c54dc80e4ca926ea3acb49e26, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreText: {fileID: 1955496479}
+  scoreText: {fileID: 1194012900}
 --- !u!1001 &167423272
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3948,6 +3959,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &210515737
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -4116,6 +4128,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &218301137
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -4427,6 +4440,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &245410556
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -5012,6 +5026,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &282644766
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -5295,6 +5310,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &300629176
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -6138,6 +6154,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &329028782
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -6427,6 +6444,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &332648649
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -6918,6 +6936,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &355651516
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -7021,6 +7040,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &363593433
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -7106,6 +7126,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &365907832
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -7626,6 +7647,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &391739479
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -7842,6 +7864,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &397971417
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -7945,6 +7968,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &403662423
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -8625,6 +8649,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &430046539
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -8790,6 +8815,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &431400056
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -9043,6 +9069,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &456581779
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -10045,6 +10072,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &494426444
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -10574,6 +10602,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &550980420
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -10807,6 +10836,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &557830804
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -10892,6 +10922,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &563744389
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -11065,6 +11096,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &567040101
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -11423,6 +11455,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &568693149
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -11591,6 +11624,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &581970573
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -11698,7 +11732,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 9146954345739160985, guid: 63921a9298947b04b91244f71c3f4400, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 154.06688
+      value: 154.01
       objectReference: {fileID: 0}
     - target: {fileID: 9146954345739160985, guid: 63921a9298947b04b91244f71c3f4400, type: 3}
       propertyPath: m_LocalPosition.y
@@ -11706,7 +11740,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 9146954345739160985, guid: 63921a9298947b04b91244f71c3f4400, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 175.24133
+      value: 175.12
       objectReference: {fileID: 0}
     - target: {fileID: 9146954345739160985, guid: 63921a9298947b04b91244f71c3f4400, type: 3}
       propertyPath: m_LocalRotation.w
@@ -12426,6 +12460,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &642745767
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -13776,6 +13811,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &711705266
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -14333,6 +14369,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &747988403
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -15126,6 +15163,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &785015414
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -15292,6 +15330,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &803265371
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -15462,6 +15501,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &823767347
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -15939,6 +15979,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &835957392
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -16197,6 +16238,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &855816190
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -16599,6 +16641,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &875536107
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -16764,6 +16807,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &877489233
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -16920,6 +16964,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &883019589
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -17563,6 +17608,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &899171007
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -17676,6 +17722,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &913997329
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -18002,6 +18049,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &934511312
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -18340,6 +18388,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &946110633
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -18832,6 +18881,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &964564852
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -19199,6 +19249,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &977782860
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -20886,6 +20937,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &1085067518
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -21236,6 +21288,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &1109236538
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -21484,6 +21537,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &1120567012
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -21647,6 +21701,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &1122211423
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -21827,6 +21882,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &1144225360
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -22218,6 +22274,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &1154934720
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -22393,6 +22450,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &1166575462
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -22558,6 +22616,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &1179026442
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -23011,6 +23070,101 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1186846692}
   m_CullTransparentMesh: 1
+--- !u!1 &1194012898
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1194012899}
+  - component: {fileID: 1194012901}
+  - component: {fileID: 1194012900}
+  - component: {fileID: 1194012902}
+  m_Layer: 0
+  m_Name: Score1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1194012899
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1194012898}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 155259932}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: -41, y: 14.8}
+  m_SizeDelta: {x: 160, y: 30}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1194012900
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1194012898}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_FontData:
+    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+    m_FontSize: 26
+    m_FontStyle: 1
+    m_BestFit: 0
+    m_MinSize: 2
+    m_MaxSize: 40
+    m_Alignment: 0
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: 'Score :'
+--- !u!222 &1194012901
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1194012898}
+  m_CullTransparentMesh: 1
+--- !u!114 &1194012902
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1194012898}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c2dee0c0ac39e19468d351f665cc18cb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  collectPoint: {fileID: 0}
+  collectPoint2: {fileID: 0}
+  collectPoint3: {fileID: 0}
 --- !u!1001 &1203617577
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -23178,6 +23332,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &1211904257
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -23296,6 +23451,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &1225174730
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -23469,6 +23625,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &1227326284
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -23745,6 +23902,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &1240980550
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -23913,6 +24071,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &1252703138
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -24455,6 +24614,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &1270731279
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -25063,6 +25223,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &1322641062
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -25199,6 +25360,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &1335061795
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -25419,6 +25581,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &1338049570
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -25561,6 +25724,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &1359637411
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -25820,6 +25984,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &1387134614
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -25955,6 +26120,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &1391629129
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -26068,6 +26234,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &1403124256
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -26538,6 +26705,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &1418197562
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -27032,6 +27200,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &1461583062
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -27505,6 +27674,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &1487680469
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -27812,6 +27982,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &1498542371
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -27973,6 +28144,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &1500857669
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -28211,6 +28383,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &1510730583
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -28417,6 +28590,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &1517810551
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -28640,6 +28814,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &1522038015
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -29388,6 +29563,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &1596478707
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -29630,6 +29806,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &1608888255
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -29839,6 +30016,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &1621321110
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -30513,6 +30691,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &1652508893
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -31004,6 +31183,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &1678674355
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -31391,6 +31571,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &1721546987
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -31696,6 +31877,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &1733713446
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -31960,6 +32142,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &1733853530
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -32100,6 +32283,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &1740817821
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -32648,6 +32832,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &1770571927
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -32836,6 +33021,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &1778627947
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -33248,6 +33434,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &1798649056
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -33328,6 +33515,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &1799220296
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -33408,6 +33596,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &1801613522
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -33857,6 +34046,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &1843041297
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -34095,6 +34285,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &1861390941
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -34260,6 +34451,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &1875649850
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -34373,6 +34565,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &1879208473
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -34652,6 +34845,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &1892768295
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -34737,6 +34931,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &1894251071
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -34991,6 +35186,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &1899680678
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -35257,6 +35453,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &1905257785
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -35643,6 +35840,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &1918901112
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -35936,6 +36134,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &1930402045
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -36054,6 +36253,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &1940389978
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -36144,6 +36344,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &1947156769
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -36181,85 +36382,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 8459677607934309267, guid: cd4c2d7e633078047883faaecc63b414, type: 3}
   m_PrefabInstance: {fileID: 1976024805}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &1955496477
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1955496478}
-  - component: {fileID: 1955496480}
-  - component: {fileID: 1955496479}
-  m_Layer: 0
-  m_Name: Score
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!224 &1955496478
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1955496477}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 155259932}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -35, y: 34}
-  m_SizeDelta: {x: 160, y: 30}
-  m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &1955496479
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1955496477}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
-  m_Color: {r: 0, g: 0, b: 0, a: 1}
-  m_RaycastTarget: 1
-  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  m_Maskable: 1
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-  m_FontData:
-    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 27
-    m_FontStyle: 1
-    m_BestFit: 0
-    m_MinSize: 0
-    m_MaxSize: 40
-    m_Alignment: 0
-    m_AlignByGeometry: 0
-    m_RichText: 1
-    m_HorizontalOverflow: 0
-    m_VerticalOverflow: 0
-    m_LineSpacing: 1
-  m_Text: 'Score :'
---- !u!222 &1955496480
-CanvasRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1955496477}
-  m_CullTransparentMesh: 1
 --- !u!1001 &1962230811
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -36695,6 +36817,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &1970948575
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -36845,6 +36968,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &1973367237
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -37127,6 +37251,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &1995758617
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -37315,6 +37440,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &1996418835
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -37374,6 +37500,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &1996799774
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -37802,6 +37929,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &2015768305
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -38457,6 +38585,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &2051683245
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -39074,6 +39203,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &2110038612
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -39349,6 +39479,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collectPoint: {fileID: 1088961949}
   collectPoint2: {fileID: 1912426523}
+  collectPoint3: {fileID: 155259936}
 --- !u!54 &2143243660
 Rigidbody:
   m_ObjectHideFlags: 0
