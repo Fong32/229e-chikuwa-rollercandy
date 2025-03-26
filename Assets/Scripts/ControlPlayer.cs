@@ -3,31 +3,34 @@ using UnityEngine;
 
 public class ControlPlayer : MonoBehaviour
 {
-    [SerializeField] private float force;
-    
     public float moveSpeed = 5f;
+    public float rotationSpeed = 5f;
     private Rigidbody _rb;
     void Start()
     {
       _rb = GetComponent<Rigidbody>();  
     }
-    
     void Update()
     {
-        float move = 0f;
-        
+        float moveX = 0f;
+        float moveY = 0f;
+        if (Input.GetKey(KeyCode.W))
+        {
+            moveY = 1f;
+        }
+        if (Input.GetKey(KeyCode.S))
+        {
+            moveY = -1f;
+        }
         if (Input.GetKey(KeyCode.A))
         {
-           move = -1f; 
+         moveX = -1;  
         }
-        else if (Input.GetKey(KeyCode.D))
+        if (Input.GetKey(KeyCode.D))
         {
-            move = 1f;
+          moveX = 1; 
         }
-        
-        _rb.linearVelocity = new Vector3(move *moveSpeed,_rb.linearVelocity.y,move);
-        _rb.AddForce(0,0,10*force);
-        
+        _rb.velocity = new Vector3 (moveX * moveSpeed, _rb.velocity.y, moveY * rotationSpeed);
     }
     
 }
